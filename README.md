@@ -1,4 +1,3 @@
-```markdown
 # EchoBot - Publicaciones Automáticas en Telegram
 
 Un bot de Telegram diseñado para publicar mensajes de forma periódica en canales y grupos, con soporte para contenido multimedia, botones, eliminación automática y copias de seguridad. Ideal para automatizar la difusión de contenido en comunidades de venta o información.
